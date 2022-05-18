@@ -24,6 +24,8 @@ https://user-images.githubusercontent.com/48360582/169053061-b815c725-f43e-41f5-
 # Time series forecasting
 We were required to predict future samples of a multivariate time series. The goal was to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future.
 
-![Test evaluation](https://user-images.githubusercontent.com/48360582/169055829-f52def6f-e03c-498e-ba35-6efd04cb760f.jpg)
+
+![NN structure 2](https://user-images.githubusercontent.com/48360582/169056207-668c2fda-627e-4afb-8b93-728f09c5a45a.jpg)
+
 
 ![Test evaluation](https://user-images.githubusercontent.com/48360582/169055527-bc67b045-2f6b-42e6-868d-d012aed7152d.jpg)
