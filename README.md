@@ -1,5 +1,5 @@
 # Artificial-Neural-Networks-competition
-*Artificial Neural Network and Deep Learning* is a course offered by Politecnico di Milano. In this repository you can find the *Jupyter Notebooks* used by me and a colleague of mine to partecipate at the competition in that academic year (2021/2022).
+*Artificial Neural Network and Deep Learning* is a course offered by Politecnico di Milano. In this repository you can find the *Jupyter Notebooks* used by me and @FeBD8 to partecipate at the competition in that academic year (2021/2022).
 
 The competition was divided into Two challenges, each one of them cover a different topic of the course:
  - Image Classification
